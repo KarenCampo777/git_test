@@ -1,0 +1,61 @@
+If you want to learn how to code
+
+Be aware that, at first, learning to code is like learning an alien language.  Frustration, imposter syndrome and discouragement can be common visitors, but one can overcome the negativity by simply being persistent and motivated. Focus on what matters, such as staying curious, giving importance to rest, finding balance in life, etc.
+
+If you don't go to a CS program or bootcamp it’s very important to spend many hours in front of the computer looking for tutorials, doing courses, developing projects, visiting sites like stackOverFlow or codeSandBox, explaining somehow to others - blogging could be a good way. Ah! And make sure to develop soft skills because technical skills alone are not enough.
+
+Passion would be ideal but there are many who land in this world of technology simply because of the money compensation, I'm not saying it’s not important, of course it is, but genuine interest is the key to success. 
+
+
+
+Do you still want to learn programming? If the answer is yes, here are some concepts you should understand: The computer basic structure, How the web works, Repository, Program, Frontend, Backend and  DevOps. 
+
+The Computer Basic Structure  input, output, memory and control units 
+The input unit is the one that receives data entered by users, normally through devices such as the mouse or keyboard. When a key is pressed, the matching letter or number is sent to the memory or the processor and does a compilation which is translated to binary code (computer language). A compiler is a program that translates human language to machine language. 
+The output unit is in charge of sending the results as information after processing the data entered by the user. Data are integers and encoded characters. The term data is frequently used to refer to any digital information even if is just a character
+The memory unit stores program data. The memory has a large number of semiconductor storage cells, each capable of storing one bit. To this day, most computers use 32 or 64 bits.
+The Control Unit coordinates the processes from instructions, identifies the devices involved and the data to process.
+
+How the web works
+The web works with the following components to facilitate user-machine interaction:
+
+The Client is a regular computer or any device connected to the internet that interacts with a user taking user inputs and translates them to another computer called a web server. A browser is used in the client-server model. 
+The Server is a computer connected to the internet that hosts websites and waits for other machines requests so they return a response. A web server stores, processes and delivers an output to clients. 
+TCP/IP: Transmission Control Protocol/Internet Protocol. It’s a widely used standard communication protocol to transmit data over networks.
+The IP address is the Internet protocol for locating a device on the network. Each device connected to the Internet has an IP address, which is needed to communicate with other machines.The format of this address is a set of 4 numbers separated by periods (e.g. 179.19.107.124). 
+The Domain Name  is a unique address for a website consisting of the site name and the domain name extension. The domain name must be human friendly (e.g example.com). The domain name works as a link to the IP address.
+HTTP stands for  Hyper-text Transfer Protocol. It's a standard used to communicate web browsers and web servers across the Internet.
+The URL stands for Uniform Resource Locators. It identifies a web resource (e.g https://example.com), the protocol (e.g https) and the host name (e.g example.com). 
+
+Repository 
+It’s a storage location for software packages, kind of like a save button for files and directories. We use a version control system called Git that locally stores our software packages and allows us to push software projects to remote storage facilities such as GitHub, Bitbucket or GitLab. This way developers can have portfolios in the cloud and make sure that projects are in a safe place. 
+
+
+Program
+A program is stored in memory as a set of instructions that executes a computer operation. They need compilers - machine translators - to convert source code into machine code using languages such as C, C++, Java, Javascript and many more. Text editors are used to develop software programs.
+
+Frontend
+It’s what users see, the graphical user interface of a website. Its main technologies are Javascript, HTML, CSS, Flutter, Vue, and everything that goes with it (React, Angular, Web Assembly, Bootstrap, Tailwind, etc.). The frontend must be intuitive and easy to use. An application developed for mobile could be significantly different from a desktop application.
+
+Backend
+
+This takes care of all server-side development, users do not see what happens behind the scenes. It includes databases such as SQL, MySql, PostgreSQL, SQLite, etc. Some popular backend languages are Python with frameworks like Flask or Django or libraries like Numpy, Ruby and its RoR framework, the Golang language created by Google, Rust created by Mozilla Foundation, PHP and its Laravel framework and of course NodeJS which is the server-side JavaScript. Javascript is a versatile language that can be backend or frontend.
+
+There are also FullStack developers. These guys write code in backend and frontend.
+
+
+
+
+DevOps - Development & Operations
+
+Is not programming but a whole culture, a set of practices that includes (CI)  continuous integration and (CD) continuous delivery.  The DevOps guys work with networks and servers. They are responsible for doing the integration, deployment and the monitoring of the development as well as the entire technology infrastructure of an organization, if something fails, everything fails and only they can solve it. 
+
+The infinity loop seen in the  image below, symbolizes the constant need for collaboration and iterative improvement through the whole life cycle.
+
+Its technologies are Ansible or Terraform, containers used by Docker servers, network infrastructures supported by technologies like those provided by Amazon Web Services or Raise Firewalls, and monitoring tools such as Nagios. It’s surely a demanding and complex job.
+
+There are affordable or even free bootcamps like The Odin Project or freeCodeCamp.  Courses on platforms like Coursera, EdX, Udemy, Udacity and many more. Make the most of the web as you can.
+
+
+
+
